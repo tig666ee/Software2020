@@ -1,6 +1,6 @@
 ---
 title: "HW2"
-author: "Your Name (ID)"
+author: "Jing-Yun Bai(H24071192)"
 output: html_document
 ---
 
@@ -13,7 +13,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 ```{r}
 str(iris)
-#summary()
+summary(iris)
 ```
 
 # Problem 2:
